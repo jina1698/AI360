@@ -1,2 +1,5 @@
 # install.packages("devtools")
 devtools::install_github("Trusted-AI/AIF360/aif360/aif360-r")
+
+library(aif360)
+install_aif360()
